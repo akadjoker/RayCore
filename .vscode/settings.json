@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "*.m": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "system_error": "cpp",
+        "new": "cpp"
+    }
+}

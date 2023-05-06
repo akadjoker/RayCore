@@ -1,0 +1,14 @@
+;physic
+
+newBody(type [x,y] [x,y,angle])
+
+;Body
+addCircle(radius [x,y])
+addLine(x1,y1,x2,y2)
+
+
+
+;Shape
+
+setFriction(float)
+setDensity(float)
